@@ -1,3 +1,5 @@
+//made by thatlonelybugbear in the Foundry discord
+
 if (!args[0].hitTargets || !args[0].damageDetail.some(i=>i.type === "bludgeoning")) return;
 
 const tactor = args[0].hitTargets[0].actor;

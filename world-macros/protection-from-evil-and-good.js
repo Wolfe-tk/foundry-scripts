@@ -1,3 +1,4 @@
+// Pulled from Foundry Discord, not sure from whom
 Hooks.on("midi-qol.preAttackRoll", function (workflow) {
     let targetActor = workflow.targets.first().actor;
     let effect = !!targetActor.effects.find(i=> i.label === "Protection from Good and Evil" || i.label === "Protection from Evil and Good");
