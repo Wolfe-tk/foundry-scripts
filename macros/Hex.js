@@ -1,3 +1,4 @@
+// Based on Hunter's Mark macro posted by Tposney, midi dev, in Foundry discord
 const version = "10.0.23";
 try {
 	if (args[0].macroPass === "DamageBonus") {

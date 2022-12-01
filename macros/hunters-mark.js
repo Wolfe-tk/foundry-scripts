@@ -1,3 +1,4 @@
+// Updated macro posted by Tposney, midi dev, in Foundry discord
 // Use same roll options as the one from the damageRoll
 const dmgOptions = args[0].damageRoll?.options ? duplicate(args[0].damageRoll.options) : {};
 dmgOptions.critical = args[0].isCritical;

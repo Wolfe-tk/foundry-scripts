@@ -1,3 +1,4 @@
+//made by thatlonelybugbear in the Foundry discord
 //Create a DAE on the Piercer feature, make it to Transfer to actor on Item equip
 //and the effect should be a
 //flags.midi-qol.onUseMacroName | CUSTOM | ItemMacro.Piercer,postDamageRoll
